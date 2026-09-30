@@ -1,0 +1,1 @@
+const CONFIG={"id": "cctv-installation-qc-20260930", "title": "Courtyard QC", "store": "https://textdb.dev/api/data/qc-689f69db367937132f3d5af6"};
